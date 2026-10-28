@@ -1,0 +1,5 @@
+data/raw/zips/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+outputs/entrega/

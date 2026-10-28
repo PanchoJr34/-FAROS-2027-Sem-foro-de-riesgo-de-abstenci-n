@@ -1,0 +1,37 @@
+{
+  "umbral_rojo": 51.47,
+  "umbral_verde": 45.87,
+  "mae_validacion": 4.62,
+  "abstencion_nacional_2027_sin": 49.1,
+  "abstencion_nacional_2027_con": 45.96,
+  "abstencion_nacional_2024_obs": 40.33,
+  "coeficientes_2027": {
+    "A_mismo_tipo": {
+      "alfa_intermedia": 2.487,
+      "alfa_presidencial": -2.233,
+      "gamma_gubernatura": 9.504,
+      "transiciones": [
+        2015,
+        2018,
+        2021,
+        2024
+      ]
+    },
+    "B_reciente": {
+      "alfa_intermedia": -12.419,
+      "alfa_presidencial": 12.406,
+      "gamma_gubernatura": 3.673,
+      "transiciones": [
+        2012,
+        2015,
+        2018,
+        2021,
+        2024
+      ]
+    }
+  },
+  "cambian_color": 13,
+  "abstencion_nacional_2027_2B": 48.18,
+  "personas_recuperadas_2A": 3247560,
+  "personas_recuperadas_2B": 952822
+}

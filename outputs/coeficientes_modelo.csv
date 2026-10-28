@@ -1,0 +1,7 @@
+﻿Lente,Coeficiente,Valor_pp,Transiciones_usadas
+A_mismo_tipo,alfa_intermedia,2.487,2009→2015 2012→2018 2015→2021 2018→2024
+A_mismo_tipo,alfa_presidencial,-2.233,2009→2015 2012→2018 2015→2021 2018→2024
+A_mismo_tipo,gamma_gubernatura,9.504,2009→2015 2012→2018 2015→2021 2018→2024
+B_reciente,alfa_intermedia,-12.419,2009→2012 2012→2015 2015→2018 2018→2021 2021→2024
+B_reciente,alfa_presidencial,12.406,2009→2012 2012→2015 2015→2018 2018→2021 2021→2024
+B_reciente,gamma_gubernatura,3.673,2009→2012 2012→2015 2015→2018 2018→2021 2021→2024

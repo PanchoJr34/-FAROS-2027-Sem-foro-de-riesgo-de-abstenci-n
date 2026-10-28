@@ -1,0 +1,13 @@
+﻿Eleccion_objetivo,Modelo,MAE_pp,Acierto_semaforo_%,Rojos_detectados,Spearman
+2021,M0 Ingenuo mismo tipo (t-6),7.83,46.9,3/8,0.33
+2021,M1 Ingenuo reciente (t-3),9.84,50.0,5/8,0.74
+2021,M2 Lente A sin gubernatura,7.61,46.9,3/8,0.33
+2021,M3 Lente A (mismo tipo + gubernatura),6.18,50.0,4/8,0.4
+2021,M4 Lente B (reciente + gubernatura),4.68,75.0,7/8,0.72
+2021,M5 MODELO FINAL (A+B)/2,4.19,59.4,5/8,0.58
+2024,M0 Ingenuo mismo tipo (t-6),3.79,62.5,5/8,0.85
+2024,M1 Ingenuo reciente (t-3),6.61,59.4,5/8,0.73
+2024,M2 Lente A sin gubernatura,3.65,62.5,5/8,0.85
+2024,M3 Lente A (mismo tipo + gubernatura),2.99,62.5,5/8,0.85
+2024,M4 Lente B (reciente + gubernatura),8.23,81.2,8/8,0.84
+2024,M5 MODELO FINAL (A+B)/2,5.05,68.8,6/8,0.85
