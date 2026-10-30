@@ -142,3 +142,7 @@ INE 2026 «Hackea la participación: Datos que construyen democracia», Eje 2. D
 convocatoria, los derechos patrimoniales del trabajo se ceden al Instituto Nacional Electoral por diez años; las
 personas autoras conservan la autoría. Este repositorio se publica solo para consulta y reproducibilidad, sin licencia
 de uso abierta.
+
+La carta de cesión de derechos y la carta declaratoria de decir verdad, firmadas por ambos integrantes, se
+entregaron al INE dentro del paquete oficial (`6_Cartas_Firmadas/`) y no se publican en este repositorio porque
+contienen firmas autógrafas.
